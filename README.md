@@ -13,6 +13,7 @@ You need to write the automation scripts for the following pages:
 
 Login Page:
 Cover all the possible functional testing scenarios.
+
 Note:- Any value of username/password is valid to log in the application
 
 
