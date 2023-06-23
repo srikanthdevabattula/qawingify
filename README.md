@@ -21,6 +21,16 @@ Home Page:
 After successful login into the application, click the AMOUNT header in the transaction table and
 check the values are sorted.
 
+//
+
+//
+
+//
+//
+
+OPEN TERMINAL and run **npm init** existing npm package
+
+next run **npm install cypress**  to download cypress modules
 
 
 ![Screenshot (67)](https://github.com/srikanthdevabattula/qawingify/assets/122144374/a49c5dd6-e0bc-4ec5-8ca8-a7f0e9f012b8)
