@@ -1,12 +1,12 @@
 # qawingify
 
 
-
+testing page 👇 
 App URL - https://sakshingp.github.io/assignment/login.html
 
-Testing Framework: **CYPRESS**
+ 🌟 Testing Framework: **CYPRESS**
 
-programming language: **JAVASCRIPT**
+ 🌟 programming language: **JAVASCRIPT**
 
 Tests
 You need to write the automation scripts for the following pages:
@@ -28,9 +28,17 @@ check the values are sorted.
 //
 //
 
-OPEN TERMINAL and run **npm init** existing npm package
+ 🌟 OPEN TERMINAL and run **npm init** existing npm package
 
-next run **npm install cypress**  to download cypress modules
+ 🌟 next run **npm install cypress**  to download cypress modules
+
+*write the code 
+ 🌟 run **npx cypress open** in terminal
+
+select browser and select the file that we write code **wingify-QA-task.cy.js**
+
+now test cases run sucessfully
+check the screenshots below
 
 
 ![Screenshot (67)](https://github.com/srikanthdevabattula/qawingify/assets/122144374/a49c5dd6-e0bc-4ec5-8ca8-a7f0e9f012b8)
@@ -64,7 +72,7 @@ next run **npm install cypress**  to download cypress modules
 
 ![Screenshot (61)](https://github.com/srikanthdevabattula/qawingify/assets/122144374/8d38a8e6-44d7-4d69-95b1-2b9a3963abd2)
 
-
+ 🌟  🌟 
 
 
 ![Screenshot (62)](https://github.com/srikanthdevabattula/qawingify/assets/122144374/e9580dee-2ec6-4ae4-871f-7568ddafff02)
