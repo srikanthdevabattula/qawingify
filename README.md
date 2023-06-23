@@ -1,5 +1,27 @@
 # qawingify
 
+
+
+App URL - https://sakshingp.github.io/assignment/login.html
+
+Testing Framework: **CYPRESS**
+
+programming language: **jAVASCRIPT**
+
+Tests
+You need to write the automation scripts for the following pages:
+
+Login Page:
+Cover all the possible functional testing scenarios.
+Note:- Any value of username/password is valid to log in the application
+
+
+Home Page:
+After successful login into the application, click the AMOUNT header in the transaction table and
+check the values are sorted.
+
+
+
 ![Screenshot (67)](https://github.com/srikanthdevabattula/qawingify/assets/122144374/a49c5dd6-e0bc-4ec5-8ca8-a7f0e9f012b8)
 
 
