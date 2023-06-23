@@ -28,7 +28,7 @@ check the values are sorted.
 //
 //
 
- 🌟 PATH of code file: **cypress\e2e\3-ui\wingify-QA-Task.cy.js**
+ 🌟 PATH of code file: **cypress\e2e\3-ui\wingify-QA-Task.cy.js** 
 
  🌟 OPEN TERMINAL and run **npm init** existing npm package
 
@@ -37,7 +37,7 @@ check the values are sorted.
 *write the code 
  🌟 run **npx cypress open** in terminal
 
-select browser and select the file that we write code **wingify-QA-task.cy.js**
+select browser and select the file that we write code **wingify-QA-task.cy.js**  in E2E folder
 
 now test cases run sucessfully
 check the screenshots below
