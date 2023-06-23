@@ -20,6 +20,23 @@
 ![Screenshot (58)](https://github.com/srikanthdevabattula/qawingify/assets/122144374/c16ef965-cee0-4732-9151-2c28b5e2d04b)
 
 
+
+
+![Screenshot (59)](https://github.com/srikanthdevabattula/qawingify/assets/122144374/86d9f08b-ed79-4d4d-b1ee-00538c46adb3)
+
+
+
+![Screenshot (60)](https://github.com/srikanthdevabattula/qawingify/assets/122144374/8b0a8320-38d1-4a61-8282-3adba9e1069d)
+
+
+![Screenshot (61)](https://github.com/srikanthdevabattula/qawingify/assets/122144374/8d38a8e6-44d7-4d69-95b1-2b9a3963abd2)
+
+
+
+
+![Screenshot (62)](https://github.com/srikanthdevabattula/qawingify/assets/122144374/e9580dee-2ec6-4ae4-871f-7568ddafff02)
+
+
 ![Screenshot (64)](https://github.com/srikanthdevabattula/qawingify/assets/122144374/f6ddfd35-9f05-47fb-bf0f-e32d50eb805a)
 
 
