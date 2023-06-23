@@ -1,6 +1,10 @@
 # qawingify
 
 
+https://github.com/srikanthdevabattula/qawingify.git
+
+https://srikanthdevabattula.github.io/qawingify/
+
 testing page 👇 
 App URL - https://sakshingp.github.io/assignment/login.html
 
