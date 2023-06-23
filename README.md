@@ -46,9 +46,15 @@ check the screenshots below
 //
 //
 //
+
+
 to run the test cases in terminal run the below codes in terminal 
-**node_modules\.bin\cypress run**   //to run all files
-**node_modules\.bin\cypress run --spec "cypress\e2e\3-ui\wingify-QA-Task.cy.js"**  //to run specific file
+
+
+ 🌟 **node_modules\.bin\cypress run**   //to run all files
+
+
+ 🌟 **node_modules\.bin\cypress run --spec "cypress\e2e\3-ui\wingify-QA-Task.cy.js"**  //to run specific file
 
 ![Screenshot (67)](https://github.com/srikanthdevabattula/qawingify/assets/122144374/a49c5dd6-e0bc-4ec5-8ca8-a7f0e9f012b8)
 
