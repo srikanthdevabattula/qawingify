@@ -6,7 +6,7 @@ App URL - https://sakshingp.github.io/assignment/login.html
 
 Testing Framework: **CYPRESS**
 
-programming language: **jAVASCRIPT**
+programming language: **JAVASCRIPT**
 
 Tests
 You need to write the automation scripts for the following pages:
